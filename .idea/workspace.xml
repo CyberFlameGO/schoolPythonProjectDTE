@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="526aa8c2-3c1a-4762-99a6-c4bef9b14a16" name="Default Changelist" comment="files power" />
+    <list default="true" id="526aa8c2-3c1a-4762-99a6-c4bef9b14a16" name="Default Changelist" comment="files power">
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618449363065</updated>
       <workItem from="1618449375559" duration="450000" />
+      <workItem from="1618524560903" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="remove gitignore because files = power">
       <created>1618449680286</created>
@@ -114,6 +118,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="true" />
